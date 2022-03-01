@@ -1,4 +1,4 @@
-# heco-contracts
+# SHIBC-contracts
 
 ## Prepare
 
